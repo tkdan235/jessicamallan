@@ -1,4 +1,4 @@
- /* 
+ /*
  * Author:
  *   YuLun Shih (http://yulun.me)
  *   Carlos Alvarez (http://alvarez.is)
@@ -163,7 +163,7 @@ a:after {
 	background-position: center center;
 	min-height: 500px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -180,7 +180,7 @@ a:after {
 	color: white;
 }
 
-#headerwrap h3 {
+#headerwrap h2 {
 	font-size: 20px;
 	color: white;
 }
@@ -192,7 +192,7 @@ a:after {
 	padding-top: 60px;
 	padding-bottom: 60px;
 	color: white;
-} 
+}
 
 #intro h5, p {
 	color: white;
